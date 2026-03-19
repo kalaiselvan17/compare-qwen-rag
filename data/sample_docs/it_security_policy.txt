@@ -1,0 +1,10 @@
+IT Security Policy — Internal Use Only
+        ========================================
+        Password Policy: Minimum 12 characters, alphanumeric + special character.
+        Multi-Factor Authentication (MFA) is mandatory for all VPN and cloud access.
+        Data Classification: Confidential, Internal, Public — handle accordingly.
+        Incident Reporting: All security incidents must be reported to security@company.com within 1 hour.
+        Device Management: Only company-approved devices may access internal systems.
+        Remote Work: Use company VPN at all times when accessing intranet resources remotely.
+        Software Installation: No unauthorized software. Submit requests via IT Help Desk.
+        Network Architecture: Segmented VLAN design — production, dev, and admin zones isolated.

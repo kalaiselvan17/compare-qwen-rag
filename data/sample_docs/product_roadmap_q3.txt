@@ -1,0 +1,9 @@
+Product Roadmap Q3 2025 , Confidential
+        ========================================
+        Feature 1: AI-Powered Search (Qwen multimodal integration) , ETA July 2025
+        Feature 2: Unified Dashboard for analytics , ETA August 2025
+        Feature 3: Mobile App v2.0 with offline support , ETA September 2025
+        Feature 4: Automated Report Generation , ETA Q4 carryover
+        Infrastructure: Migrate all services to Kubernetes , In Progress
+        ML Pipeline: Deploy Qwen-VL model for document understanding , Priority
+        Database: Shard PostgreSQL cluster for 10x scale , ETA August 2025
