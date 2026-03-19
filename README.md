@@ -172,18 +172,16 @@ self.model = AutoModel.from_pretrained(
 ```
 
 ## 8. sample testing question
-If an organization fails an audit, what corrective actions are required?
-How should an organization handle changes in ISMS?
-What steps should be taken when a security incident occurs?
-How should a company manage supplier-related security risks?
-What should be included in an information security policy?
-What is the purpose of ISO/IEC 27001:2022?
-What does ISMS stand for?
-What are the three core principles of information security mentioned?
-Which clause defines the scope of the ISMS?
-What is covered under Clause 4 in ISO 27001?
-What are the components of Clause 5 (Leadership)?
-What is Annex A in ISO 27001?
-What is the role of top management in ISMS?
-What is meant by "documented information"?
-Which standard provides vocabulary for ISO 27001?
+1. If an organization fails an audit, what corrective actions are required?
+2. How should an organization handle changes in ISMS?
+3. What steps should be taken when a security incident occurs?
+4. How should a company manage supplier-related security risks?
+5. What should be included in an information security policy?
+6. What is the purpose of ISO/IEC 27001:2022?
+7. What does ISMS stand for?
+8. What are the three core principles of information security mentioned?
+9. Which clause defines the scope of the ISMS?
+10. What is covered under Clause 4 in ISO 27001?
+11. What are the components of Clause 5 (Leadership)?
+12. What is Annex A in ISO 27001?
+13. What is the role of top management in ISMS?
