@@ -1,0 +1,28 @@
+# ── Core ──────────────────────────────────────────────────────────────────────
+streamlit>=1.35.0
+numpy>=1.24.0
+Pillow>=10.0.0
+
+# ── Qwen model ────────────────────────────────────────────────────────────────
+# Install PyTorch separately per your CUDA version:
+# https://pytorch.org/get-started/locally/
+# torch>=2.1.0
+transformers>=4.40.0
+accelerate>=0.28.0
+einops>=0.7.0
+tiktoken>=0.6.0
+# Optional: bitsandbytes for 4-bit quantisation on GPU
+# bitsandbytes>=0.43.0
+
+# ── Vector store ──────────────────────────────────────────────────────────────
+faiss-cpu>=1.8.0         # use faiss-gpu if CUDA available
+
+# ── Document parsing ──────────────────────────────────────────────────────────
+pymupdf>=1.24.0          # PDF ingestion (fitz)
+python-docx>=1.1.0       # DOCX ingestion
+
+# ── Fallback / comparison pipeline ───────────────────────────────────────────
+sentence-transformers>=2.7.0
+
+# ── Development / evaluation ──────────────────────────────────────────────────
+tqdm>=4.66.0
